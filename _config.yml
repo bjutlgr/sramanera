@@ -5,14 +5,14 @@ header-img: img/home-bg.jpg
 email: sramanerapro@gmail.com
 description: "关于前端与设计、黑客与画家 | 李光瑞，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Sramanera李光瑞 的个人博客，与你一起发现更大的世界。"
 keyword: "李光瑞, Sramanera李光瑞, Sramanera, 鬼栈, sramanerapro, @sramanerapro, 李光瑞的博客, Sramanera Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
-url: "http://bjutlgr.github.io/sramanera"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://bjutlgr.github.io"              # your host, for absolute URL
+baseurl: "/sramanera"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     sramanera pro
+weibo_username:     bjutlgr
 zhihu_username:     sramanera pro
 github_username:    sramanera pro
 #twitter_username:  sramanerapro
